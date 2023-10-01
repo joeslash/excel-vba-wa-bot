@@ -1,9 +1,13 @@
 WA Bot-Prerequisites
 --------------------
 'Chrome Driver (depend on Chrome Version)
+
 'Selenium Basic
+
 'Selenium Wrapper
+
 'Google Chrome Version 117.0.5938.132 (Official Build) (64-bit)
+
 
 1. Install Microsoft .net framework 3.5
 - Control Panel\All Control Panel Items\Programs and Features
