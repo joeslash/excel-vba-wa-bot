@@ -1,1 +1,2 @@
+1.6 | 2023/10/05 - [Update] Add Open File button
 1.6 | 2023/09/30 - [Update] Add Check for update button
