@@ -8,6 +8,8 @@ WA Bot-Prerequisites
 
 'Google Chrome Version 117.0.5938.132 (Official Build) (64-bit)
 
+Important !!
+Use English Language on WhatsApp App on your device
 
 1. Install Microsoft .net framework 3.5
 - Control Panel\All Control Panel Items\Programs and Features
