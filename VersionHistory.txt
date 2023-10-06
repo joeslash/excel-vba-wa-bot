@@ -1,3 +1,6 @@
+1.6 | 2023/10/06 - [New Feature] Add Validate Contact Modul
+1.6 | 2023/10/06 - [New Feature] Add Open File button
+1.6 | 2023/10/06 - [Bug Fix] Change Send Message Logic for unsaved WA Contact 
 1.6 | 2023/09/30 - [Enhancement] Create Check For Update
 1.6 | 2023/09/30 - [Enhancement] Customized display
 1.6 | 2023/09/30 - [Enhancement] Change program logic to search for contacts conditionally
