@@ -1,3 +1,4 @@
+1.6 | 2023/10/06 - [Update] Add Export Data Sheet1 and Sheet2
 1.6 | 2023/10/06 - [Update] Change Send Message Logic for unsaved WA Contact
 1.6 | 2023/10/06 - [Update] Add Validate Contact Modul
 1.6 | 2023/10/05 - [Update] Add Open File button
