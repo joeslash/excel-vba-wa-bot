@@ -6,7 +6,7 @@ WA Bot-Prerequisites
 
 'Selenium Wrapper
 
-'Google Chrome Version 117.0.5938.132 (Official Build) (64-bit)
+'Google Chrome Version 129.0.6668.89 (Official Build) (64-bit) or Latest
 
 Important !!
 Use English Language on WhatsApp App on your device
