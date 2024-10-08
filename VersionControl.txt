@@ -1,4 +1,9 @@
-1.7 | 2024/10/08 - [Update] Fixing Update WA Web XPATH & Update UI
+3.0 | 2024/10/08 - [Update] Fixing Update WA Web XPATH & Update UI
+3.0 | 2024/10/08 - [Update] Fixing Update WA Web XPATH
+2.0 | 2024/09/12 - [Update] Fixing Update WA Web XPATH
+1.9 | 2024/09/09 - [Update] Fixing Update WA Web XPATH
+1.8 | 2024/08/08 - [Update] Fixing Update WA Web XPATH
+1.7 | 2024/08/07 - [Update] Fixing Update WA Web XPATH
 1.6 | 2023/10/06 - [Update] Add Export Data Sheet1 and Sheet2
 1.6 | 2023/10/06 - [Update] Change Send Message Logic for unsaved WA Contact
 1.6 | 2023/10/06 - [Update] Add Validate Contact Modul
