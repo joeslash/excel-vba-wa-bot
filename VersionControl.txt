@@ -1,3 +1,4 @@
+3.1 | 2024/11/08 - [Update] xPathCaptionField
 3.0 | 2024/10/08 - [Update] Fixing Update WA Web XPATH & Update UI
 3.0 | 2024/10/08 - [Update] Fixing Update WA Web XPATH
 2.0 | 2024/09/12 - [Update] Fixing Update WA Web XPATH
