@@ -10,6 +10,7 @@ WA Bot-Prerequisites
 
 Important !!
 Use English Language on WhatsApp App on your device
+- Always Check Chrome Version update & Chrome Driver if found Error when launch
 
 1. Install Microsoft .net framework 3.5
 - Control Panel\All Control Panel Items\Programs and Features
