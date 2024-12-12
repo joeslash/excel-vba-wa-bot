@@ -22,6 +22,7 @@ Use English Language on WhatsApp App on your device
 *Enable : 
 - Selenium Type Library
 - SeleniumWrapper Type Library
+- Microsoft Scripting Runtime
 7. Create Test Folder ex: C:\Users\Administrator\Desktop\test\BEER_BUCKET.png
 8. Fill out the Excel Data Sheet and click "Run WhatsApp BOT" to launch the automation.
 9. Scan the QR code for WhatsApp Web and wait until the task is completed.
