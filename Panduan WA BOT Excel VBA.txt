@@ -1,0 +1,90 @@
+📘 Panduan WA BOT Menggunakan Excel VBA
+
+> *Catatan Penting:* Aplikasi WhatsApp di HP Anda harus menggunakan *bahasa Inggris* agar WA BOT dapat berjalan dengan lancar.
+
+---
+
+# 1️⃣ Validasi Nomor Kontak WhatsApp
+
+Langkah pertama sebelum mengirim pesan secara massal (blasting) adalah memastikan bahwa nomor kontak yang akan digunakan *sudah terdaftar di WhatsApp*. Berikut langkah-langkahnya:
+
+# 🔁 Import Kontak
+- Anda bisa mengimpor nomor dari berbagai sumber seperti file *Excel*, *TXT*, atau lainnya.
+- Bisa juga dilakukan secara manual, yaitu dengan cara *copy-paste* atau mengetik langsung nomor WhatsApp.
+- Pastikan format nomor benar, contoh: `+62 878-3984-5100`.
+
+# ✅ Proses Validasi
+1. Klik tombol *Validate* untuk menjalankan WA BOT.
+2. Bot akan membuka browser Chrome dalam mode penyamaran dan mengakses WhatsApp Web.
+3. Jika ini pertama kali login, Anda perlu *memindai (scan) QR Code* melalui aplikasi WhatsApp di HP Anda.
+4. Setelah WhatsApp Web berhasil dibuka, kembali ke Excel dan klik *OK* untuk mulai memvalidasi nomor.
+5. Bot akan memeriksa apakah nomor tersebut terdaftar di WhatsApp:
+   - Jika tidak terdaftar, status akan muncul sebagai *Invalid* atau *Contact tidak terdaftar WA*.
+   - Jika terdaftar tetapi belum tersimpan di kontak, bot tetap bisa mendeteksi dengan mode khusus.
+6. Proses validasi selesai setelah semua nomor diperiksa (*Done*).
+
+---
+
+# 2️⃣ Persiapan Blasting Pesan WhatsApp
+
+Setelah nomor divalidasi, langkah selanjutnya adalah mempersiapkan pesan yang ingin dikirim.
+
+# 📋 Salin Nomor Kontak
+- Salin hanya *nomor kontak yang sudah valid* ke dalam sheet Excel bernama *DATA (Blasting Form)*.
+- Pastikan *nomor dimulai dari Cell A10*. Jika tidak, maka sistem akan menganggap cell tersebut kosong.
+
+# 💬 Menulis Isi Pesan
+- Masukkan teks pesan yang ingin dikirim (panjang bebas).
+- Untuk membuat *paragraf baru*, gunakan kombinasi tombol *Alt + Enter* saat mengetik.
+
+# 😄 Penggunaan Emoji
+- Tidak semua emoji dari WhatsApp bisa digunakan karena ada batasan pada aplikasi ini.
+- Gunakan emoji yang tersedia dalam sheet *Emoji* yang disediakan oleh pembuat WA BOT.
+- Jika menggunakan emoji di luar daftar tersebut, program bisa *error*.
+
+# 🖼️ Lampiran File atau Gambar
+- Jika ingin menyertakan gambar atau file, pilih kolom sesuai urutan kontak.
+- Klik tombol *Open File* untuk memilih file yang ingin dilampirkan.
+- Pastikan ukuran file *tidak terlalu besar* agar proses pengiriman lancar.
+
+---
+
+# 3️⃣ Menjalankan WA BOT
+
+Setelah semua persiapan selesai, ikuti langkah-langkah berikut untuk menjalankan WA BOT:
+
+1. Klik tombol *RUN Whatsapp BOT*.
+2. Bot akan membuka browser Chrome dan masuk ke WhatsApp Web.
+3. Jika diminta, *scan QR Code* menggunakan aplikasi WhatsApp di HP Anda.
+4. Setelah halaman WhatsApp Web terbuka, kembali ke Excel dan klik *OK* untuk memulai proses blasting.
+5. Bot akan otomatis:
+   - Mengetik nomor kontak,
+   - Menulis pesan,
+   - Dan mengirimkannya satu per satu sesuai jumlah kontak yang sudah divalidasi.
+6. Proses selesai jika muncul status *Done*.
+
+---
+
+# ⚠️ Penanganan Error
+
+# 🚫 Jenis-Jenis Error
+- Gangguan jaringan internet.
+- Interupsi pengguna, misalnya membuka aplikasi lain saat BOT sedang berjalan.
+- Kesalahan format atau karakter dalam pesan.
+
+# 💡 Solusi
+- Periksa progres BOT untuk mengetahui sampai mana pesan sudah terkirim.
+- Salin daftar kontak dari sheet DATA ke sheet Excel lain.
+- Pindahkan nomor kontak yang belum terkirim ke *Cell A10* dan ulangi proses blasting.
+- Ini berguna untuk mencegah pengiriman pesan ganda ke kontak yang sama.
+
+---
+
+# 🛠️ Kendala Lain
+
+Jika Anda mengalami error yang tidak disebutkan di atas, misalnya karena *pembaruan WhatsApp* atau *Chrome Driver*, silakan hubungi *Creator* untuk bantuan pembaruan kode atau penyesuaian sistem.
+
+---
+
+Dengan mengikuti panduan ini, Anda dapat menggunakan *WA BOT Excel VBA* secara efektif dan efisien tanpa kesulitan berarti.
+
