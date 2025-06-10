@@ -1,3 +1,4 @@
+3.4 | 2025/05/10 - [Update] Update xPath Search, Caption Message, UI first Open Workbook
 3.3 | 2025/02/01 - [Update] Update Delay on Send Message Only - February 2025
 3.3 | 2025/02/01 - [Update] Change Attach Button code from get by css to get by XPath - February 2025 xPathCaptionField
 3.2 | 2024/12/11 - [Update] Change Attach Button code from get by css to get by XPath - December 20243.1 | 2024/11/08 - [Update] xPathCaptionField
